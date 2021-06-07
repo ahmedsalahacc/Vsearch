@@ -1,0 +1,1 @@
+{"start": "B", "goal": "A", "method": "Greedy", "connections": [{"repr": "A", "pos": [234.59999084472656, 132], "children_nodes": [], "weights": [], "heuristics": -1}, {"repr": "B", "pos": [386.59999084472656, 166], "children_nodes": ["A"], "weights": [1], "heuristics": -1}]}
