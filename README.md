@@ -13,3 +13,6 @@
   Under this text there are two buttons "<" and "<<", use "<" to visualize the search path of the algorithm, and use "<<" to visualize the final path.
   
   You need not to repeat the drawing process each time you want to a visualize different algorithm or a different path, just change what you want to change directly and leave the rest to us!
+  
+### Architecture Used
+![architecture used](https://github.com/ahmedsalahacc/Vsearch/blob/main/docs/Architecture.jpg?raw=true)
