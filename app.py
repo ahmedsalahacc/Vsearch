@@ -38,5 +38,5 @@ def handle_bad_request(e):
     return 'bad request!', 400
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False, host='0.0.0.0')
 
