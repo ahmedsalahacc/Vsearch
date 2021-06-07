@@ -15,4 +15,4 @@
   You need not to repeat the drawing process each time you want to a visualize different algorithm or a different path, just change what you want to change directly and leave the rest to us!
   
 ### Architecture Used
-![](images/table ./docs/Architecture.png?raw=true)
+![](images docs/Architecture.png?raw=true)
