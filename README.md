@@ -3,9 +3,9 @@
  
  ### How to use:
   1. Left-click on the mouse to place a node on the screen, nodes have auto labelling mechanism that works alphabitically
-  2. After you finish drawing two nodes, right click on the mouse on the nodes that you desire to connect. The first click is clicked on the "From" node and the second click is on the "To" node
+  2. After you finish drawing two nodes, right click on the nodes that you desire to connect. The first click is clicked on the "From" node and the second click is on the "To" node
   3. You will find the edges added in the edges drop down where you can add weights to edges and then press "add weight" to add the weight on the canvas
-  4. You will also find a heuristics drop down where you can enter the heuristics of each node. This is not required as the system will automatically workk with the manhattan distance for you as a heuristic for each node
+  4. You will also find a heuristics drop down where you can enter the heuristics of each node. This is not required as the system will automatically work with the manhattan distance for you as a heuristic for each node
   5. specify the start node (single) and the end nodes (one or many), after choosing each end node click add to add them on the canvas 
   7. Now te final step, is to choose the serach algorithm that you want and then press search!
 
