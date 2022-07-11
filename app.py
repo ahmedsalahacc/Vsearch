@@ -1,4 +1,4 @@
-from flask import Flask, render_template, redirect, jsonify, url_for, request
+from flask import Flask, render_template, redirect, jsonify, url_for, request, abort
 from flask_cors import CORS, cross_origin
 from brains import serve
 import json
@@ -30,7 +30,8 @@ def process_request():
 
         return jsonify(res_obj), 201, {'Content-Type': 'application/json'}
     except:
-        return "400 Bad request error"
+        #return "400 Bad request error"
+        abort(400)
 
 
 @app.errorhandler(400)
